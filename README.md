@@ -1,0 +1,1 @@
+These are the exercises i progress through my course on Udemy with Jose Portilla about PostgreSQL. There is a file named dvdrental.tar which is database possible to restore if somebody wants to check some of its queries.
