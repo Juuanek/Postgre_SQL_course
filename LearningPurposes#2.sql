@@ -1,0 +1,3 @@
+INSERT INTO account 
+VALUES
+('3','Emi','emi321','emi@gmail.com',CURRENT_TIMESTAMP,CURRENT_TIMESTAMP)
