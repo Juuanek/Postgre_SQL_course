@@ -1,0 +1,3 @@
+INSERT INTO account_job
+VALUES
+('2','1',CURRENT_TIMESTAMP)
