@@ -1,0 +1,2 @@
+ALTER TABLE new_info
+ALTER COLUMN person DROP NOT NULL 
