@@ -1,0 +1,1 @@
+SELECT * FROM custmer_info
